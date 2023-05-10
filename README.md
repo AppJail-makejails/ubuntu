@@ -1,10 +1,13 @@
+
 # Ubuntu
 
 Ubuntu is a popular Linux distribution based on Debian and composed mostly of free and open-source software that runs from the desktop to the cloud, to all your Internet connected things. It is the world's most popular operating system across public clouds and OpenStack clouds.
 
 wikipedia.org/wiki/Ubuntu
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/1920px-Ubuntu-logo-2022.svg.png" width="60%" height="auto" alt="ubuntu logo">
+
+
+![ubuntu-new-logo-250x250-1](https://github.com/AppJail-makejails/ubuntu/assets/40880686/f01546b7-72e6-4f30-ab27-53e757143009)
 
 ## How to use this Makejail
 
