@@ -1,5 +1,5 @@
 INCLUDE options/options.makejail
 
-OPTION osversion=bionic
+OPTION osversion=jammy
 OPTION type=linux+debootstrap
 OPTION linuxfs
