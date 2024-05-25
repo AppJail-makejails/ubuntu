@@ -46,3 +46,7 @@ appjail makejail -j ubuntu -- --network development --ruleset 11
 ```
 
 Your ruleset must unhide `shm` and `shm/*`.
+
+## Notes
+
+* This Makejail uses the `jammy` version of Ubuntu. 
