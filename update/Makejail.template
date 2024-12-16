@@ -1,0 +1,5 @@
+INCLUDE options/options.makejail
+
+OPTION osversion=%%OSVERSION%%
+OPTION type=linux+debootstrap
+OPTION linuxfs
